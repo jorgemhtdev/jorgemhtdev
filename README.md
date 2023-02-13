@@ -84,7 +84,7 @@ Además, me gusta participar en la comunidad, poder charrar con iguales, compart
 - 🤼 Te interesará saber que **mis mejores cualidades** las podrás encontrar **gestionando equipos** (aunque soy de los que bajan al barro a trabajar con todos, creo firmemente que es la única manera REAL de liderar un equipo).
 - 🔍 También soy una **persona minuciosa**. Me gusta cuidar cada detalle de los proyectos en los que trabajo y tengo la necesidad de intentar alcanzar la perfección.
 - 👌 Por último, detesto trabajar de más. Estoy completamente concienciado con **optimizar procesos** y tareas en todos mis trabajos para lograr que sean lo más **eficientes posible**.
-- 
+
 ## ¿Quieres saber más de mi?
 Llevo trabajando en tecnología móvil 9 años.
 Cuando salí del cascarón 🐣, empecé trabajando en **.NET**. En mi primera empresa, al ser el novatillo 👶, me encasquetaron varios proyectos para desarrollar aplicaciones móviles 📱 ya que nadie quería trabajar en ellos.
