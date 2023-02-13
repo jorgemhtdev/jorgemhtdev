@@ -89,7 +89,6 @@ Además, me gusta participar en la comunidad, poder charrar con iguales, compart
 - 🔍 También soy una **persona minuciosa**. Me gusta cuidar cada detalle de los proyectos en los que trabajo y tengo la necesidad de intentar alcanzar la perfección.
 - 👌 Por último, detesto trabajar de más. Estoy completamente concienciado con **optimizar procesos** y tareas en todos mis trabajos para lograr que sean lo más **eficientes posible**.
 
---- 
 
 ## ¿Quieres saber más de mi?
 
