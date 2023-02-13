@@ -77,10 +77,6 @@ Además, me gusta participar en la comunidad, poder charrar con iguales, compart
 
 <br/>
 
-## Sobre mí
-
-- 📫 @jorgemhtdev
-
 ### Si perteneces a la comunidad quiero que sepas que...
 
 - 💬 Me encantará **charrar contigo** si ves que tenemos intereses en común y crees que, de alguna manera, **puedo echarte un cable o echármelo tú a mí**.
