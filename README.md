@@ -94,7 +94,9 @@ Fue algo como:
 
 Y para mi sorpresa (y la suya) llegué a disfrutar aquella experiencia y terminó despertándome la curiosidad por las aplicaciones móviles que me ha llevado hasta el día de hoy ❣❣❣❣❣❣❣❣❣.
 Como era (y soy) MEGA FAN de  empecé a cotillear como podía hacer aplicaciones para iOS y descubrí **Objetive-C** y **UIKit** *(junto a sus maravillosos Storyboards, AutoLayout, ViewController...)*.
+
 Unos años después, allá por el 2016, decidí emprender y hacer algunos proyectos por mi cuenta en los que monté aplicaciones tanto para **Android** como para **iOS**. Inicialmente empecé haciéndolos con **ionic** y, después, con **Xamarin** (donde he sumado 6 años de experiencia). Todo esto, a su vez, lo intercalé con desarrollo de webs con **ASP.NET MVC 5**, **Api Rest con ASP.NET MVC 5** para nutrir las aplicaciones de datos y **Microsoft SQL Server**.
+
 En 2019 entré como manager mobile a una empresa que se dedica al desarrollo e implementación de software para la trazabilidad de productos hortofrutícolas con el objetivo de evitar la posible comercialización ilegal de productos protegidos. Este proyecto estaba orientado a las administraciones públicas de varios países para los que desarrollábamos numerosas aplicaciones para móviles y tablets (tanto en Android como iOS).
 
 <section align="center">
