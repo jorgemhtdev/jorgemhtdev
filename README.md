@@ -15,7 +15,7 @@
    
 <h3 align="center"> 👋 👋 👋 Hola, soy Jorge</h3>
 
-Soy un apasionado del del desarrollo de software. Pero lo que más me gusta, con diferencia, es desarrollar aplicaciones con los lenguajes en los que me he especializado: **Swift** & **Swift UI**.
+Soy un apasionado del desarrollo de software. Pero lo que más me gusta, con diferencia, es desarrollar aplicaciones con los lenguajes en los que me he especializado: **Swift** & **Swift UI**.
 Me encanta todo lo tecnológico, aunque mi mayor curiosidad (aparte del desarrollo de software) se la lleva la realidad aumentada, la realidad virtual, las IA, los sistemas IOT y la domótica.
 Además, me gusta participar en la comunidad, poder charrar con iguales, compartir conocimiento y aprender cosas nuevas sobre los temas que me interesan.
 
