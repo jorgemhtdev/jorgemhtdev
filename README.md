@@ -55,7 +55,7 @@ Además, me gusta participar en la comunidad, poder charrar con iguales, compart
   <h3>IDEs</h3>
   <img src="https://github.com/jorgemhtdev/Resources/blob/main/assets/ides/xcode.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/jorgemhtdev/Resources/blob/main/assets/ides/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/jorgemhtdev/Resources/blob/main/assets/ides/sublimetext.svg" title="sublimetext" alt="sublimetext" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/jorgemhtdev/Resources/blob/main/assets/ides/sublimetext.png" title="sublimetext" alt="sublimetext" width="40" height="40"/>&nbsp;
 </section>
 
 <section align="center">
