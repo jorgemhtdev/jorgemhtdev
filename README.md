@@ -79,7 +79,7 @@ Además, me gusta participar en la comunidad, poder charrar con iguales, compart
 - 💬 Me encantará **charrar contigo** si ves que tenemos intereses en común y crees que, de alguna manera, **puedo echarte un cable o echármelo tú a mí**.
 - 👨‍💻 Busco **colaborar** en cualquier desarrollo de **aplicaciones móviles** que puedan suponer un reto para mí y que tengan que ver con Swift (iOS, tvOS y vapor).
 - 🎤 Si eres tú quién buscas a una persona para **dar charlas** de Swift, Swift UI y/o Vapor, **soy tu hombre**. 
-- 
+
 ### Sí, por el contrario, eres una empresa y podría interesarte para tu proyecto...
 - 🤼 Te interesará saber que **mis mejores cualidades** las podrás encontrar **gestionando equipos** (aunque soy de los que bajan al barro a trabajar con todos, creo firmemente que es la única manera REAL de liderar un equipo).
 - 🔍 También soy una **persona minuciosa**. Me gusta cuidar cada detalle de los proyectos en los que trabajo y tengo la necesidad de intentar alcanzar la perfección.
