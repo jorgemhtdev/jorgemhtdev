@@ -89,7 +89,9 @@ Además, me gusta participar en la comunidad, poder charrar con iguales, compart
 Llevo trabajando en tecnología móvil 9 años.
 Cuando salí del cascarón 🐣, empecé trabajando en **.NET**. En mi primera empresa, al ser el novatillo 👶, me encasquetaron varios proyectos para desarrollar aplicaciones móviles 📱 ya que nadie quería trabajar en ellos.
 Fue algo como: 
+
 > “¿Quién quiere desarrollar aplicaciones móviles con Ionic? ¿Nadie? ¿No? Vale. Pues **tú**, el nuevo, te encargas. 🤓 
+
 Y para mi sorpresa (y la suya) llegué a disfrutar aquella experiencia y terminó despertándome la curiosidad por las aplicaciones móviles que me ha llevado hasta el día de hoy ❣❣❣❣❣❣❣❣❣.
 Como era (y soy) MEGA FAN de  empecé a cotillear como podía hacer aplicaciones para iOS y descubrí **Objetive-C** y **UIKit** *(junto a sus maravillosos Storyboards, AutoLayout, ViewController...)*.
 Unos años después, allá por el 2016, decidí emprender y hacer algunos proyectos por mi cuenta en los que monté aplicaciones tanto para **Android** como para **iOS**. Inicialmente empecé haciéndolos con **ionic** y, después, con **Xamarin** (donde he sumado 6 años de experiencia). Todo esto, a su vez, lo intercalé con desarrollo de webs con **ASP.NET MVC 5**, **Api Rest con ASP.NET MVC 5** para nutrir las aplicaciones de datos y **Microsoft SQL Server**.
